@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 6c9c189bfd53746b7bcf50297f19f5c7
+timeCreated: 1510330963
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hanzel Extended
+  fontNames:
+  - Hanzel Extended
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e9b6123a7734c44cb92653bbff706619, type: 3}
+  customCharacters: 
+  fontRenderingMode: 2
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

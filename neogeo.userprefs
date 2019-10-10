@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/GigapowerControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GigapowerControl.cs" Line="219" Column="98" />
+      <File FileName="Assets/Scripts/CompanyName.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextGradient.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MGR_Sound.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ButtonControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BGMSelector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MakerManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
